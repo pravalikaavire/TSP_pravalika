@@ -1,2 +1,2 @@
-#Thid repository is only for sap
+#This repository is only for sap
 #uploading html files only
